@@ -4,4 +4,4 @@ This project aims to replicate and analyze Berkshire Hathaway's performance base
 
 Key tasks include factor returns analysis, Sharpe and Information ratio computation, multivariate regression, Buffett-style portfolio construction, and systematic portfolio regressions.
 
-Notice that this project has been developed together with other two collaborators (and fellow colleagues) as a group-project for a BSc Course in Data Analysis for Business.
+Notice that this project has been developed together with other two collaborators (and fellow colleagues) as a group-project for a BSc Course in Computational Finance.
